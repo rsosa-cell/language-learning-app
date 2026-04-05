@@ -31,17 +31,6 @@ Users can learn multiple languages through interactive lessons, audio-based chal
 
 ---
 
-## 🎥 Demo
-
-*(Add your demo video here after recording)*
-
----
-
-## 📸 Screenshots
-
-*(Optional — add later if you want)*
-
----
 
 ## 📂 Getting Started
 
