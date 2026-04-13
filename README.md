@@ -1,3 +1,6 @@
+## 🎥 Demo
+(https://www.youtube.com/watch?v=ZWXECK1kl04)
+
 # 🌍 Language Learning App
 
 A Duolingo-inspired language learning platform built with Next.js and TypeScript.  
@@ -30,6 +33,8 @@ Users can learn multiple languages through interactive lessons, audio-based chal
 - Tailwind CSS
 
 ---
+
+
 
 
 ## 📂 Getting Started
