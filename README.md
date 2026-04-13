@@ -1,6 +1,3 @@
-## 🎥 Demo
-(https://www.youtube.com/watch?v=ZWXECK1kl04)
-
 # 🌍 Language Learning App
 
 A Duolingo-inspired language learning platform built with Next.js and TypeScript.  
@@ -8,22 +5,31 @@ Users can learn multiple languages through interactive lessons, audio-based chal
 
 ---
 
+## 🎥 Demo
+(https://www.youtube.com/watch?v=ZWXECK1kl04)
+
 ## 🚀 Features
 
-- 🌐 Multiple languages:
-  - Spanish
-  - Italian
-  - French
-  - German
-  - Mandarin
-  - Japanese
-- 📚 Structured learning system (Units & Lessons)
-- 🔊 Audio-based pronunciation support
-- 🎯 Interactive challenges (select & assist)
-- 🧠 Progressive learning flow
-- 🖼️ Visual learning with images
+### 🌐 Multiple Languages
+- Spanish
+- Italian
+- French
+- German
+- Mandarin
+- Japanese
+
+### 📚 Learning System
+- Structured units & lessons
+- Progressive learning flow
+
+### 🎯 Interactive Features
+- Select & assist challenges
+- Audio pronunciation support
+- Visual learning with images
 
 ---
+
+Built with a focus on scalable learning architecture and interactive user experience.
 
 ## 🛠 Tech Stack
 
