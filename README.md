@@ -6,7 +6,7 @@ Users can learn multiple languages through interactive lessons, audio-based chal
 ---
 
 ## 🎥 Demo
-(https://www.youtube.com/watch?v=ZWXECK1kl04)
+[▶ Watch Demo](https://www.youtube.com/watch?v=ZWXECK1kl04)
 
 ## 🚀 Features
 
@@ -26,9 +26,9 @@ Users can learn multiple languages through interactive lessons, audio-based chal
 - Select & assist challenges
 - Audio pronunciation support
 - Visual learning with images
-
 ---
 
+## 🧠 Focus
 Built with a focus on scalable learning architecture and interactive user experience.
 
 ## 🛠 Tech Stack
